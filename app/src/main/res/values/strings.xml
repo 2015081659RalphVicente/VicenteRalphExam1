@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VicenteRalphExam1</string>
+    <string name="personal_notes">Personal Notes</string>
+    <string name="office_notes">Office Notes</string>
+    <string name="public_notes">Public Notes</string>
+    <string name="note_1">Note 1</string>
+    <string name="lorem_ipsum_dolor_sit_amet">Lorem ipsum dolor sit amet</string>
+    <string name="consectetur_adipiscing_elit">consectetur adipiscing elit</string>
+    <string name="ut_interdum_enim_vitae">Ut interdum enim vitae</string>
+    <string name="libero_tempus_placerat">libero tempus placerat</string>
+    <string name="note_2">Note 2</string>
+    <string name="todo">TODO</string>
+    <string name="tododo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+</resources>
